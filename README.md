@@ -43,7 +43,7 @@
 
 ### 3.1 Запуск сервера
 
-1. Скачайте [последний релиз]()
+1. Скачайте [последний релиз](https://github.com/Linsaym/HttpClipboard/releases/download/v1.0.0/HttpClipboard.exe)
 2. Запустите файл
 3. Введите порт (например `8080`)
 
